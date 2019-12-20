@@ -42,4 +42,3 @@ describe('enzyme tests', () => {
     expect(switchValueAfterToggle).toBe(true);
   });
 });
-© 2019 GitHub, Inc.
