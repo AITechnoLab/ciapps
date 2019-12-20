@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/YGConfig.cpp \
+  /Users/baps/Documents/React/cx-softphone/ios/Pods/Target\ Support\ Files/Yoga/Yoga-prefix.pch \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/YGConfig.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/CompactValue.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/YGValue.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/baps/Documents/React/cx-softphone/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h
